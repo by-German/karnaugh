@@ -1,0 +1,1 @@
+E:\Proyectos Programacion\C++\Discreta\karnaugh\karnaugh\Debug\karnaugh.vcxprojAssemblyReference.cache

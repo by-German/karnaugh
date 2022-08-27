@@ -1,0 +1,19 @@
+﻿  MainForm.cpp
+E:\Proyectos Programacion\C++\Discreta\karnaugh\karnaugh\Karnaugh.hpp(68,21): warning C4018: '<': no coinciden signed/unsigned
+E:\Proyectos Programacion\C++\Discreta\karnaugh\karnaugh\Karnaugh.hpp(69,22): warning C4018: '<': no coinciden signed/unsigned
+E:\Proyectos Programacion\C++\Discreta\karnaugh\karnaugh\Karnaugh.hpp(84,21): warning C4018: '<': no coinciden signed/unsigned
+E:\Proyectos Programacion\C++\Discreta\karnaugh\karnaugh\Karnaugh.hpp(85,22): warning C4018: '<': no coinciden signed/unsigned
+E:\Proyectos Programacion\C++\Discreta\karnaugh\karnaugh\Karnaugh.hpp(105,24): warning C4018: '<': no coinciden signed/unsigned
+E:\Proyectos Programacion\C++\Discreta\karnaugh\karnaugh\Karnaugh.hpp(106,25): warning C4018: '<': no coinciden signed/unsigned
+E:\Proyectos Programacion\C++\Discreta\karnaugh\karnaugh\Karnaugh.hpp(127,24): warning C4018: '<': no coinciden signed/unsigned
+E:\Proyectos Programacion\C++\Discreta\karnaugh\karnaugh\Karnaugh.hpp(128,25): warning C4018: '<': no coinciden signed/unsigned
+E:\Proyectos Programacion\C++\Discreta\karnaugh\karnaugh\Karnaugh.hpp(221,21): warning C4018: '<': no coinciden signed/unsigned
+E:\Proyectos Programacion\C++\Discreta\karnaugh\karnaugh\Karnaugh.hpp(222,22): warning C4018: '<': no coinciden signed/unsigned
+E:\Proyectos Programacion\C++\Discreta\karnaugh\karnaugh\Karnaugh.hpp(243,21): warning C4018: '<': no coinciden signed/unsigned
+E:\Proyectos Programacion\C++\Discreta\karnaugh\karnaugh\Karnaugh.hpp(260,37): warning C4018: '<': no coinciden signed/unsigned
+E:\Proyectos Programacion\C++\Discreta\karnaugh\karnaugh\Karnaugh.hpp(262,22): warning C4018: '<': no coinciden signed/unsigned
+E:\Proyectos Programacion\C++\Discreta\karnaugh\karnaugh\Karnaugh.hpp(265,23): warning C4018: '<': no coinciden signed/unsigned
+E:\Proyectos Programacion\C++\Discreta\karnaugh\karnaugh\MainForm.cpp(9,24): warning C4018: '<': no coinciden signed/unsigned
+E:\Proyectos Programacion\C++\Discreta\karnaugh\karnaugh\MainForm.cpp(28,24): warning C4018: '<': no coinciden signed/unsigned
+  MainForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  karnaugh.vcxproj -> E:\Proyectos Programacion\C++\Discreta\karnaugh\Debug\karnaugh.exe
